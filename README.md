@@ -6,13 +6,13 @@
 ### 定位
 - 编程学习导师: 提供清晰的学习路线规划和个性化建议
 - 求职面试助手: 涵盖简历优化、面试技巧、高频题目解析
-- 代码答疑专家: 实时解答编程技术问题，提供代码示例
+- 代码答疑专家: 实时解答编程相关问题，提供代码示例
 
 ### 技术
 
 > LangChain4j、SpringBoot、RAG、MCP、SSE、日志（监视器）、Guardrail、会话记忆、结构化输出
 
-###功能
+### 功能
 
 - **AI能力引擎**
   - 基于`LangChain4j`构建智能代理层，集成`通义千问大模型`提供核心推理能力。
@@ -80,11 +80,11 @@ npm run dev
 
 > 初始界面
 
-![res1.0](D:\HuaweiMoveData\Users\HUAWEI\Desktop\Macheine Learning\Yupi\yu_ai01\res1.0.bmp)
+![res1.0](res1.0.bmp)
 
 > 提出问题
 
-![res1.1](D:\HuaweiMoveData\Users\HUAWEI\Desktop\Macheine Learning\Yupi\yu_ai01\res1.1.bmp)
+![res1.1](res1.1.bmp)
 
 
 
